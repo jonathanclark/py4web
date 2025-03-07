@@ -1,11 +1,11 @@
 # py4web documentation
   
-In this /doc folder you can see the source files for all the documentation, in RST format. Their translations are
-in the /doc/locales folders, in PO format.
+In this /docs folder you can see the source files for all the documentation, in RST format. Their translations are
+in the /docs/locales folders, in PO format.
 
 # help with the documentation
 
-You can help us with the documentation, it's really simple! Just change the .RST and .PNG files in the /doc folder and create a Push Request on
+You can help us with the documentation, it's really simple! Just change the .RST and .PNG files in the /docs folder and create a Push Request on
 the GitHub repository at https://github.com/web2py/py4web - you can even do it within your browser.
 Once the PR is accepted, your changes will be written on the master branch, and will be reflected on the web pages / pdf / epub at
 the next output generation on the branch. 
